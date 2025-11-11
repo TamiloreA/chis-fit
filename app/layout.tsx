@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Ivory Beauty",
-  description: "Skincare that celebrates your natural essence",
+  title: "Chi's Fit",
+  description: "Outfits that celebrates your natural essence",
 };
 
 export const dynamic = "force-dynamic";
