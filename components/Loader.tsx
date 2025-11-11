@@ -16,7 +16,7 @@ const Loader = ({ onComplete }: { onComplete?: () => void }) => {
 
   return (
     <div className="loader">
-      <div className="loader-text">IVORY BEAUTY</div>
+      <div className="loader-text">CHI'S FIT</div>
     </div>
   );
 };
